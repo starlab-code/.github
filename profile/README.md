@@ -181,9 +181,9 @@ $ npm run dev
 ## 화면 구성 📺
 | 로그인 페이지  |  대시보드 (선생님)   |
 | :-------------------------------------------: | :------------: |
-|  <img width="329" src="./docs/screenshots/login.png"/> |  <img width="329" src="./docs/screenshots/teacher-home.png"/>|
+|  <img width="329" src="../docs/screenshots/login.png"/> |  <img width="329" src="../docs/screenshots/teacher-home.png"/>|
 | 문제 목록 페이지   |  풀이 · 채점 페이지   |
-| <img width="329" src="./docs/screenshots/problem-list.png"/>   |  <img width="329" src="./docs/screenshots/solve.png"/>     |
+| <img width="329" src="../docs/screenshots/problem-list.png"/>   |  <img width="329" src="../docs/screenshots/solve.png"/>     |
 
 ---
 ## V1 주요 기능
