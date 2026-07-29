@@ -184,8 +184,6 @@ $ npm run dev
 |  <img width="329" src="./docs/screenshots/login.png"/> |  <img width="329" src="./docs/screenshots/teacher-home.png"/>|
 | 문제 목록 페이지   |  풀이 · 채점 페이지   |
 | <img width="329" src="./docs/screenshots/problem-list.png"/>   |  <img width="329" src="./docs/screenshots/solve.png"/>     |
-| 과제 관리 페이지   |  계정 관리 페이지   |
-| <img width="329" src="./docs/screenshots/assignments.png"/>   |  <img width="329" src="./docs/screenshots/accounts.png"/>     |
 
 ---
 ## V1 주요 기능
